@@ -21,7 +21,9 @@ public class Main {
 		n2 = input.nextInt();
 		
 		System.out.println("soma: " +(n1+n2));
-		
+		System.out.println("subtração: "+(n1-n2));
+		System.out.println("multiplicação: "+(n1*n2));
+		System.out.println("divisão: "+(n1-n2));
 		
 		
 		
